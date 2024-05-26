@@ -1,0 +1,53 @@
+Here is a list of the units and subunits in the AP Calculus BC curriculum:
+
+1. Unit 1: Limits and Continuity
+   Subunit 1: Limits at a Point
+   Subunit 2: Limits at Infinity
+   Subunit 3: Continuity
+
+2. Unit 2: Differentiation: Definition and Fundamental Properties
+   Subunit 1: Derivative of a Function
+   Subunit 2: Differentiation Rules
+   Subunit 3: Differentiation of Trigonometric Functions
+
+3. Unit 3: Differentiation: Composite, Implicit, and Inverse Functions
+   Subunit 1: Composite Functions
+   Subunit 2: Implicit Differentiation
+   Subunit 3: Inverse Functions
+
+4. Unit 4: Contextual Applications of Differentiation
+   Subunit 1: Optimization
+   Subunit 2: Related Rates
+   Subunit 3: Applications of Differentiation
+
+5. Unit 5: Analytical Applications of Differentiation
+   Subunit 1: Applications of the Mean Value Theorem
+   Subunit 2: Applications of the Fundamental Theorem of Calculus
+   Subunit 3: Applications of the Chain Rule
+
+6. Unit 6: Integration and Accumulation of Change
+   Subunit 1: Definite Integrals
+   Subunit 2: Indefinite Integrals
+   Subunit 3: Applications of Integration
+
+7. Unit 7: Differential Equations
+   Subunit 1: Separable Differential Equations
+   Subunit 2: Linear Differential Equations
+   Subunit 3: Applications of Differential Equations
+
+8. Unit 8: Applications of Integration
+   Subunit 1: Applications of Integration to Physics
+   Subunit 2: Applications of Integration to Economics
+   Subunit 3: Applications of Integration to Other Fields
+
+9. Unit 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions
+   Subunit 1: Parametric Equations
+   Subunit 2: Polar Coordinates
+   Subunit 3: Vector-Valued Functions
+
+10. Unit 10: Infinite Sequences and Series
+   Subunit 1: Convergence of Series
+   Subunit 2: Divergence of Series
+   Subunit 3: Applications of Infinite Series
+
+Note: The percentages provided in the search results are approximate and may vary depending on the specific course or curriculum being used.

@@ -1,0 +1,5 @@
+#!/home/vinay/Code/Reducation/Cupertino_Hacks_2024/Cupertino_2024_backend/.conda/bin/python3.11
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

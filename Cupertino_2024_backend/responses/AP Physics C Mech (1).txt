@@ -1,0 +1,53 @@
+Here is the AP Physics C Mechanics curriculum with the specified format:
+
+**Unit 1: Kinematics**
+- Subunit 1: Position, Velocity, and Acceleration
+- Subunit 2: Representations of Motion
+
+**Unit 2: Dynamics**
+- Subunit 1: Systems
+- Subunit 2: The Gravitational Field
+- Subunit 3: Contact Forces
+- Subunit 4: Newton's First Law
+- Subunit 5: Newton's Third Law and Free-Body Diagrams
+- Subunit 6: Newton's Second Law
+- Subunit 7: Applications of Newton's Second Law
+
+**Unit 3: Circular Motion and Gravitation**
+- Subunit 1: Vector Fields
+- Subunit 2: Fundamental Forces
+- Subunit 3: Gravitational and Electric Forces
+- Subunit 4: Gravitational Field/Acceleration Due to Gravity on Different Planets
+- Subunit 5: Inertial vs. Gravitational Mass
+- Subunit 6: Centripetal Acceleration vs. Centripetal Force
+- Subunit 7: Free-Body Diagrams for Circular Motion
+
+**Unit 4: Energy**
+- Subunit 1: Energy and Energy Transfer
+- Subunit 2: Conservation of Energy
+
+**Unit 5: Momentum**
+- Subunit 1: Impulse and Momentum
+- Subunit 2: Conservation of Momentum
+
+**Unit 6: Simple Harmonic Motion**
+- Subunit 1: Simple Harmonic Motion
+- Subunit 2: Mass-Spring Systems
+- Subunit 3: Simple Pendulums
+
+**Unit 7: Torque and Rotational Motion**
+- Subunit 1: Rotational Kinematics
+- Subunit 2: Torque
+- Subunit 3: Rotational Dynamics
+- Subunit 4: Rotational Kinetic Energy
+- Subunit 5: Conservation of Angular Momentum
+
+**Unit 8: Waves**
+- Subunit 1: Wave Properties
+- Subunit 2: Wave Equations
+- Subunit 3: Wave Interference
+- Subunit 4: Wave Energy
+- Subunit 5: Wave Applications
+
+**AP Exam Review**
+- About 4 weeks of practice/review time

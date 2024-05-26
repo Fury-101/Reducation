@@ -1,0 +1,86 @@
+Here is a list of the AP Computer Science A curriculum, organized by unit and subunit:
+
+Unit 1: Fundamentals of Programming
+- Subunit 1: Primitive Types
+- Subunit 2: Using Objects
+- Subunit 3: Boolean Expressions and if Statements
+- Subunit 4: Iteration
+- Subunit 5: Writing Classes
+- Subunit 6: Array
+- Subunit 7: ArrayList
+- Subunit 8: 2D Array
+- Subunit 9: Inheritance
+- Subunit 10: Recursion
+- Subunit 11: AP Exam Prep
+- Subunit 12: String Manipulations
+- Subunit 13: Design and Object Oriented Principles
+
+Unit 2: Algorithms and Data Structures
+- Subunit 1: Algorithms - Selection Sort
+- Subunit 2: Algorithms - Insertion Sort
+- Subunit 3: Algorithms - Merge Sort
+- Subunit 4: Algorithms - Sequential Search
+- Subunit 5: Algorithms - Binary Search
+- Subunit 6: Data Structures - Arrays
+- Subunit 7: Data Structures - ArrayList
+- Subunit 8: Data Structures - Linked Lists
+- Subunit 9: Data Structures - Trees
+- Subunit 10: Data Structures - Graphs
+- Subunit 11: Data Structures - Hash Tables
+- Subunit 12: Data Structures - Heaps
+
+Unit 3: Object-Oriented Programming
+- Subunit 1: Classes and Objects
+- Subunit 2: Constructors
+- Subunit 3: Inheritance and Polymorphism
+- Subunit 4: Interfaces
+- Subunit 5: Exception Handling
+- Subunit 6: Lambda Expressions
+- Subunit 7: Streams
+- Subunit 8: Functional Interfaces
+- Subunit 9: Java Collections Framework
+- Subunit 10: Java I/O
+- Subunit 11: Java Networking
+- Subunit 12: Java Multithreading
+
+Unit 4: Java Libraries
+- Subunit 1: Java Standard Library
+- Subunit 2: Java Collections Framework
+- Subunit 3: Java I/O
+- Subunit 4: Java Networking
+- Subunit 5: Java Multithreading
+- Subunit 6: Java Graphics
+- Subunit 7: Java Swing
+- Subunit 8: JavaFX
+- Subunit 9: Java AWT
+- Subunit 10: Java 2D Graphics
+- Subunit 11: Java 3D Graphics
+- Subunit 12: Java Database Connectivity
+
+Unit 5: Ethical and Social Issues
+- Subunit 1: Privacy and Security
+- Subunit 2: Intellectual Property
+- Subunit 3: Human-Computer Interaction
+- Subunit 4: Computer Ethics
+- Subunit 5: Digital Citizenship
+- Subunit 6: Cybersecurity
+- Subunit 7: Artificial Intelligence
+- Subunit 8: Big Data
+- Subunit 9: Internet of Things
+- Subunit 10: Cloud Computing
+- Subunit 11: Blockchain
+- Subunit 12: Quantum Computing
+
+Unit 6: AP Exam Preparation
+- Subunit 1: Free-Response Questions
+- Subunit 2: Multiple-Choice Questions
+- Subunit 3: Practice Exams
+- Subunit 4: Review Sessions
+- Subunit 5: Study Guides
+- Subunit 6: Exam Tips
+- Subunit 7: Exam Strategies
+- Subunit 8: Exam Preparation Resources
+- Subunit 9: Exam Review Materials
+- Subunit 10: Exam Practice Tests
+- Subunit 11: Exam Study Plans
+- Subunit 12: Exam Preparation Workshops

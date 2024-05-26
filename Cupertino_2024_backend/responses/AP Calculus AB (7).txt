@@ -1,0 +1,48 @@
+Here is a list of the AP Calculus AB curriculum, including the unit names and their subunits, in a simple and easy-to-understand format:
+
+**Unit 1: Limits and Continuity**
+- Subunit 1: Deduce and interpret behavior of functions using limits
+- Subunit 2: Analyze functions for intervals of continuity or points of discontinuity
+
+**Unit 2: Differentiation: Definition and Fundamental Properties**
+- Subunit 1: Determine higher order derivatives
+- Subunit 2: Use derivatives to analyze properties of a function
+- Subunit 3: Recognize the connection between differentiability and continuity
+
+**Unit 3: Differentiation: Composite, Implicit, and Inverse Functions**
+- Subunit 1: Interpret the meaning of a derivative within a problem
+- Subunit 2: Solve problems involving the slope of a tangent line
+- Subunit 3: Solve problems involving related rates, optimization, rectilinear motion, and planar motion
+
+**Unit 4: Contextual Applications of Differentiation**
+- Subunit 1: Deduce and interpret behavior of functions using limits
+- Subunit 2: Determine the applicability of important calculus theorems using continuity
+- Subunit 3: Use derivatives to analyze properties of a function
+
+**Unit 5: Analytical Applications of Differentiation**
+- Subunit 1: Determine limits of functions
+- Subunit 2: Deduce and interpret behavior of functions using limits
+- Subunit 3: Determine the applicability of important calculus theorems using continuity
+
+**Unit 6: Integration and Accumulation of Change**
+- Subunit 1: Approximate a definite integral
+- Subunit 2: Express the limit of a Riemann sum in integral notation
+- Subunit 3: Interpret the definite integral as the limit of a Riemann sum
+- Subunit 4: Calculate a definite integral using areas and properties of definite integrals
+
+**Unit 7: Antiderivatives and the Fundamental Theorem of Calculus**
+- Subunit 1: Recognize antiderivatives of basic functions
+- Subunit 2: Calculate antiderivatives
+- Subunit 3: Analyze functions defined by an integral
+- Subunit 4: Interpret the meaning of a definite integral within a problem
+- Subunit 5: Apply definite integrals to problems involving the average value of a function
+- Subunit 6: Interpret, create, and solve differential equations from problems in context
+
+**Unit 8: Applications of Integration**
+- Subunit 1: Determine the average value of a function using definite integrals
+- Subunit 2: Model particle motion
+- Subunit 3: Solve accumulation problems
+- Subunit 4: Find the area between curves
+- Subunit 5: Determine volume with cross-sections, the disc method, and the washer method
+
+Please note that the percentages listed for each unit are approximate and may vary slightly depending on the specific curriculum or textbook being used.

@@ -1,0 +1,52 @@
+Here is a simplified list of the AP Calculus AB curriculum, organized by unit and subunit:
+
+**Unit 1: Limits and Continuity**
+- Subunit 1: Introduction to limits
+- Subunit 2: Properties of limits
+- Subunit 3: Continuity of a function
+- Subunit 4: Asymptotes and limits at infinity
+- Subunit 5: Squeeze theorem and Intermediate Value Theorem
+
+**Unit 2: Differentiation: Definition and Fundamental Properties**
+- Subunit 1: Definition of derivative
+- Subunit 2: Differentiation rules
+- Subunit 3: Differentiation of elementary functions
+- Subunit 4: Differentiability and continuity
+
+**Unit 3: Differentiation: Composite, Implicit, and Inverse Functions**
+- Subunit 1: Chain rule for differentiating composite functions
+- Subunit 2: Implicit differentiation
+- Subunit 3: Higher-order derivatives
+- Subunit 4: Differentiating implicit and inverse functions
+
+**Unit 4: Contextual Applications of Differentiation**
+- Subunit 1: Applications of differentiation in physics
+- Subunit 2: Optimization problems
+- Subunit 3: Related rates
+- Subunit 4: Logarithmic differentiation
+
+**Unit 5: Analytical Applications of Differentiation**
+- Subunit 1: Applications of differentiation in geometry
+- Subunit 2: Applications of differentiation in trigonometry
+- Subunit 3: Applications of differentiation in exponential and logarithmic functions
+- Subunit 4: Applications of differentiation in piecewise-defined functions
+
+**Unit 6: Integration and Accumulation of Change**
+- Subunit 1: Introduction to integration
+- Subunit 2: Fundamental theorem of calculus
+- Subunit 3: Applications of integration in geometry
+- Subunit 4: Applications of integration in physics
+
+**Unit 7: Differential Equations**
+- Subunit 1: Introduction to differential equations
+- Subunit 2: Separable differential equations
+- Subunit 3: Homogeneous linear differential equations
+- Subunit 4: Applications of differential equations in physics
+
+**Unit 8: Applications of Integration**
+- Subunit 1: Average value of a function using definite integrals
+- Subunit 2: Modeling particle motion
+- Subunit 3: Solving accumulation problems
+- Subunit 4: Finding the area between curves
+
+Please note that the exact content and subunits may vary slightly depending on the specific curriculum used by your school or institution.

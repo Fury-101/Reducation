@@ -1,0 +1,43 @@
+Here is a list of units and subunits for the Quantum Mechanics curriculum:
+
+1. **Unit 1: Introduction to Quantum Mechanics**
+   - Subunit 1: Historical Development of Quantum Mechanics
+   - Subunit 2: Fundamental Concepts and Principles
+   - Subunit 3: Mathematical Framework
+
+2. **Unit 2: Quantum States and Operators**
+   - Subunit 1: Wave Functions and Probability Density
+   - Subunit 2: Operators and Observables
+   - Subunit 3: Eigenvalues and Eigenfunctions
+
+3. **Unit 3: Quantum Systems**
+   - Subunit 1: One-Dimensional Systems
+   - Subunit 2: Three-Dimensional Systems
+   - Subunit 3: Time-Dependent Systems
+
+4. **Unit 4: Quantum Interactions**
+   - Subunit 1: Scattering and Collisions
+   - Subunit 2: Bound Systems
+   - Subunit 3: Quantum Field Theory
+
+5. **Unit 5: Quantum Information and Computation**
+   - Subunit 1: Quantum Information Theory
+   - Subunit 2: Quantum Algorithms
+   - Subunit 3: Quantum Computing
+
+6. **Unit 6: Quantum Applications**
+   - Subunit 1: Quantum Chemistry
+   - Subunit 2: Quantum Optics
+   - Subunit 3: Quantum Materials
+
+7. **Unit 7: Quantum Measurement and Uncertainty**
+   - Subunit 1: Measurement and Observables
+   - Subunit 2: Uncertainty Principle
+   - Subunit 3: Quantum Measurement Techniques
+
+8. **Unit 8: Advanced Topics in Quantum Mechanics**
+   - Subunit 1: Quantum Chaos
+   - Subunit 2: Quantum Gravity
+   - Subunit 3: Quantum Foundations and Interpretations
+
+Please note that the curriculum may vary depending on the institution and the level of the course.

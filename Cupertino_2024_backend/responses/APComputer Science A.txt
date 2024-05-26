@@ -1,0 +1,58 @@
+Here is the list of units and subunits in the AP Computer Science A curriculum:
+
+Unit 1: Object-Oriented Programming
+- Subunit 1: Classes and Objects
+- Subunit 2: Constructors
+- Subunit 3: Methods
+- Subunit 4: Instance and Static Variables
+- Subunit 5: Inheritance
+- Subunit 6: Class Hierarchies
+- Subunit 7: Polymorphism
+
+Unit 2: Control Structures
+- Subunit 1: Conditional Statements
+- Subunit 2: Iterative Statements
+- Subunit 3: Loops
+- Subunit 4: Arrays
+- Subunit 5: ArrayLists
+
+Unit 3: Algorithms
+- Subunit 1: Algorithm Design
+- Subunit 2: Algorithm Analysis
+- Subunit 3: Algorithm Implementation
+- Subunit 4: Algorithm Efficiency
+
+Unit 4: Data Structures
+- Subunit 1: Lists
+- Subunit 2: Stacks
+- Subunit 3: Queues
+- Subunit 4: Trees
+- Subunit 5: Graphs
+
+Unit 5: Java Libraries
+- Subunit 1: Java Classes
+- Subunit 2: Java Packages
+- Subunit 3: Java Methods
+- Subunit 4: Java Exception Handling
+- Subunit 5: Java I/O
+
+Unit 6: Java Programming
+- Subunit 1: Java Program Structure
+- Subunit 2: Java Program Design
+- Subunit 3: Java Program Testing
+- Subunit 4: Java Program Debugging
+- Subunit 5: Java Program Documentation
+
+Unit 7: Ethics and Society
+- Subunit 1: Ethical Issues
+- Subunit 2: Social Issues
+- Subunit 3: Privacy and Security
+- Subunit 4: Legal Issues
+- Subunit 5: Professional Responsibility
+
+Unit 8: AP Exam Preparation
+- Subunit 1: Exam Format
+- Subunit 2: Exam Content
+- Subunit 3: Exam Strategies
+- Subunit 4: Exam Practice
+- Subunit 5: Exam Review

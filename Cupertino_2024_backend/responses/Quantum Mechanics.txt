@@ -1,0 +1,62 @@
+The Quantum Mechanics curriculum typically consists of the following units and subunits:
+
+1. **Quantum Information Science (QIS)**
+	* 8.371[J] QIS II: Quantum Information Science
+		+ Quantum circuits
+		+ Quantum Fourier transform and search algorithms
+		+ Quantum operations formalism
+		+ Quantum error correction
+		+ Quantum entanglement
+		+ Quantum cryptography
+		+ Prior knowledge of quantum mechanics required
+	* 8.372 QIS III: Quantum Information Science III
+		+ Quantum information theory
+		+ Error-correction
+		+ Physical implementations
+		+ Algorithms
+		+ Cryptography
+		+ Complexity
+		+ Draws connections between QIS and related fields, such as many-body physics, and applications such as sensing
+	* 8.398 Selected Topics in Graduate Physics
+		+ Topics of current interest in theoretical physics
+		+ Varying from year to year
+		+ Given when sufficient interest is indicated
+2. **Selected Topics in Theoretical Physics**
+	* 8.381, 8.382 Selected Topics in Theoretical Physics
+		+ Topics of current interest in theoretical physics
+		+ Varying from year to year
+		+ Not routinely offered; given when sufficient interest is indicated
+3. **Pre-Thesis Research**
+	* 8.391 Pre-Thesis Research
+		+ Advanced problems in any area of experimental or theoretical physics
+		+ Assigned reading and consultations
+	* 8.392 Pre-Thesis Research
+		+ Advanced problems in any area of experimental or theoretical physics
+		+ Assigned reading and consultations
+4. **Teaching College-Level Science and Engineering**
+	* 8.395[J] Teaching College-Level Science and Engineering...
+		+ Prepares students to teach college-level science and engineering
+		+ Emphasizes effective teaching strategies and methods
+		+ Develops communication and presentation skills
+5. **Leadership and Professional Strategies & Skills Training (LEAPS)**
+	* 8.396[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part I: Advancing Your Professional Strategies and Skills
+		+ Navigating and charting an academic career with confidence
+		+ Convincing an audience with clear writing and arguments
+		+ Mastering public speaking and communications
+		+ Networking at conferences and building a brand
+		+ Identifying transferable skills
+		+ Preparing for a successful job application package and job interviews
+		+ Understanding group dynamics and different leadership styles
+		+ Leading a group or team with purpose and confidence
+	* 8.397[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part II: Developing Your Leadership Competencies
+		+ Gaining self-awareness and awareness of others
+		+ Communicating with different personality types
+		+ Learning about team building practices
+		+ Strategies for recognizing and resolving conflict and bias
+		+ Advocating for diversity and inclusion
+		+ Becoming organizationally savvy
+		+ Having the courage to be an ethical leader
+		+ Coaching, mentoring, and developing others
+		+ Championing, accepting, and implementing change
+
+These units and subunits cover a wide range of topics in quantum mechanics, from the fundamental principles of quantum information science to advanced topics in theoretical physics and practical applications in teaching and leadership.

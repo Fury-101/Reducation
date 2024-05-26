@@ -1,0 +1,56 @@
+Here is a list of the AP Biology curriculum, organized in the specified format:
+
+Unit 1: Chemistry of Life
+- Subunit 1: Structure of Water and Hydrogen Bonding
+- Subunit 2: Elements of Life
+- Subunit 3: Introduction to Biological Macromolecules
+- Subunit 4: Properties of Biological Macromolecules
+- Subunit 5: Structure and Function of Biological Macromolecules
+- Subunit 6: Nucleic Acids
+
+Unit 2: Cell Structure and Function
+- Subunit 1: Cellular Components and Functions
+- Subunit 2: Cell Interaction with the Environment
+- Subunit 3: Cell Membrane Structure and Function
+- Subunit 4: Cell Regulatory Mechanisms
+- Subunit 5: Cellular Compartmentalization
+
+Unit 3: Cellular Energetics
+- Subunit 1: Structure and Function of Enzymes
+- Subunit 2: Role of Energy in Living Systems
+- Subunit 3: Photosynthesis
+- Subunit 4: Cellular Respiration
+- Subunit 5: Molecular Diversity and Cellular Response to Environmental Changes
+
+Unit 4: Cell Communication and Cell Cycle
+- Subunit 1: Mechanisms of Cell Communication
+- Subunit 2: Signal Transduction
+- Subunit 3: Cellular Responses and Feedback Mechanisms
+- Subunit 4: Cell Growth and Reproduction
+- Subunit 5: Cellular Events in the Cell Cycle
+
+Unit 5: Heredity
+- Subunit 1: Meiosis and Meiosis Process and Function
+- Subunit 2: Genetic Diversity
+- Subunit 3: Mendel's Laws and Probability
+- Subunit 4: Non-Mendelian Inheritance
+- Subunit 5: Factors Affecting Inheritance and Gene Expression
+
+Unit 6: Gene Expression and Regulation
+- Subunit 1: Replication
+- Subunit 2: Transcription and RNA Processing
+- Subunit 3: Gene Expression and Regulation
+
+Unit 7: Natural Selection
+- Subunit 1: Natural Selection
+- Subunit 2: Artificial Selection
+- Subunit 3: Population Genetics
+- Subunit 4: Hardy-Weinberg Equilibrium
+- Subunit 5: Evidence for Evolution
+
+Unit 8: Ecology
+- Subunit 1: Biomes
+- Subunit 2: Ecological Niches
+- Subunit 3: Abiotic vs. Biotic Factors
+- Subunit 4: Types of Survivorship Curves and K versus R-selected Species
+- Subunit 5: Types of Interspecific Interactions and Food Chains

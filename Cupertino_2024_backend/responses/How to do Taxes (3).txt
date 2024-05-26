@@ -1,0 +1,14 @@
+The How to Do Taxes curriculum includes the following units and subunits:
+
+1. Unit 1: Demonstrate knowledge of the components of the basic income tax formula for individuals and business entities, understand when income and deductions are recognized, and describe when they are excluded (or disallowed) or deferred.
+   - Subunit 1: Identify items of gross income (including character)
+   - Subunit 2: Determine exclusions from gross income and deferrals of gross income
+   - Subunit 3: Identify allowable deductions (and correctly categorize them as for or from AGI deductions for individual taxpayers)
+   - Subunit 4: Calculate gross tax liability
+   - Subunit 5: Determine allowable credits
+   - Subunit 6: Recognize the impact of any underpayment or late payment penalties
+2. Unit 2: Explain the interrelationships and differences between financial accounting and tax accounting.
+3. Unit 3: Apply analytical reasoning tools to assess how taxes affect economic decisions for individuals and business entities.
+4. Unit 4: Demonstrate the ability to conduct tax research.
+5. Unit 5: Understand tax-related statutory, regulatory, and professional ethics obligations and identify tax-based community service opportunities.
+6. Unit 6: Explain basic tax policy considerations underlying common tax regimes.

@@ -1,0 +1,42 @@
+AP Statistics Curriculum:
+
+Unit 1: Exploring One-Variable Data
+- Subunit 1.1: Analyzing Categorical Data
+- Subunit 1.2: Displaying Quantitative Data with Graphs
+
+Unit 2: Exploring Two-Variable Data
+- Subunit 2.1: Scatter Plots
+- Subunit 2.2: Correlation
+
+Unit 3: Probability and Random Variables
+- Subunit 3.1: Discrete and Continuous Random Variables
+- Subunit 3.2: Transforming and Combining Random Variables
+
+Unit 4: Probability, Random Variables, and Probability Distributions
+- Subunit 4.1: Conditional Probability and Independence
+- Subunit 4.2: Binomial and Geometric Random Variables
+
+Unit 5: Sampling Distributions
+- Subunit 5.1: What is a Sampling Distribution?
+- Subunit 5.2: Sample Proportions
+- Subunit 5.3: Sample Means
+
+Unit 6: Inference for Categorical Data
+- Subunit 6.1: Proportions
+- Subunit 6.2: Confidence Intervals for Proportions
+- Subunit 6.3: Testing for the Difference of Two Proportions
+
+Unit 7: Inference for Quantitative Data
+- Subunit 7.1: Means
+- Subunit 7.2: Confidence Intervals for Means
+- Subunit 7.3: Hypothesis Testing for Means
+
+Unit 8: Statistical Inference
+- Subunit 8.1: Point Estimation
+- Subunit 8.2: Confidence Intervals
+- Subunit 8.3: Hypothesis Testing
+
+Unit 9: Statistical Inference: Advanced Topics
+- Subunit 9.1: Non-parametric Inference
+- Subunit 9.2: Bayesian Inference
+- Subunit 9.3: Ethics and Professional Responsibility in Statistics

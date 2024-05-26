@@ -1,0 +1,32 @@
+Here is a list of the AP Physics 1 curriculum, organized by unit and subunit:
+
+Unit 1: Kinematics
+- Subunit 1: Position, acceleration, and velocity
+- Subunit 2: Representations of motion
+- Subunit 3: Systems
+
+Unit 2: Dynamics
+- Subunit 1: Vector fields
+- Subunit 2: Fundamental forces
+- Subunit 3: Gravitational forces
+
+Unit 3: Circular Motion and Gravitation
+- Subunit 1: Gravitational fields and acceleration due to gravity
+- Subunit 2: Centripetal acceleration and centripetal force
+- Subunit 3: Free-body diagrams for objects in uniform circular motion
+
+Unit 4: Energy
+- Subunit 1: Period of simple harmonic oscillators
+- Subunit 2: Energy of simple harmonic oscillator
+- Subunit 3: Rotational kinematics
+
+Unit 5: Momentum
+- Subunit 1: Applications of circular motion and gravitation
+
+Unit 6: Simple Harmonic Motion
+- Subunit 1: Torque and rotational motion
+
+Unit 7: Torque and Rotational Motion
+- Subunit 1: Applications of circular motion and gravitation
+
+Please note that the AP Physics 1 curriculum is designed to be flexible, and the sequence and pacing of units can be adjusted based on the needs and preferences of the instructor and students.

@@ -1,0 +1,43 @@
+Here is a list of the units and subunits in the How to do Taxes curriculum:
+
+1. **Unit 1: Demonstrate knowledge of the components of the basic income tax formula for individuals and business entities**
+   - Subunit 1: Understanding income tax formula
+   - Subunit 2: Identifying items of gross income
+   - Subunit 3: Determining exclusions from gross income
+   - Subunit 4: Identifying allowable deductions
+   - Subunit 5: Calculating gross tax liability
+   - Subunit 6: Determining allowable credits
+   - Subunit 7: Recognizing impact of underpayment or late payment penalties
+
+2. **Unit 2: Explain the interrelationships and differences between financial accounting and tax accounting**
+   - Subunit 1: Overview of financial accounting
+   - Subunit 2: Overview of tax accounting
+   - Subunit 3: Comparison of financial and tax accounting
+   - Subunit 4: Application of tax accounting principles
+
+3. **Unit 3: Apply analytical reasoning tools to assess how taxes affect economic decisions for individuals and business entities**
+   - Subunit 1: Introduction to analytical reasoning tools
+   - Subunit 2: Applying tools to individual tax decisions
+   - Subunit 3: Applying tools to business tax decisions
+   - Subunit 4: Evaluating impact of tax decisions
+
+4. **Unit 4: Demonstrate the ability to conduct tax research**
+   - Subunit 1: Overview of tax research
+   - Subunit 2: Identifying tax research sources
+   - Subunit 3: Conducting tax research
+   - Subunit 4: Evaluating tax research findings
+
+5. **Unit 5: Understand tax-related statutory, regulatory, and professional ethics obligations and identify tax-based community service opportunities**
+   - Subunit 1: Overview of tax ethics
+   - Subunit 2: Understanding tax-related statutory obligations
+   - Subunit 3: Understanding tax-related regulatory obligations
+   - Subunit 4: Understanding professional ethics in taxation
+   - Subunit 5: Identifying tax-based community service opportunities
+
+6. **Unit 6: Explain basic tax policy considerations underlying common tax regimes**
+   - Subunit 1: Overview of tax policy considerations
+   - Subunit 2: Understanding income tax policy
+   - Subunit 3: Understanding sales and property tax policy
+   - Subunit 4: Understanding tax policy for special situations (e.g., charities, nonprofits)
+
+Each unit is designed to provide a comprehensive understanding of the various aspects of taxation, from the basic principles to the more complex issues. The curriculum is structured to build upon the knowledge gained in previous units, providing a cumulative learning experience.

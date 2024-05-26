@@ -1,0 +1,38 @@
+Here is a list of the units and their subunits in the AP Calculus AB curriculum, as described in the search results:
+
+1. **Unit 1: Limits and Continuity**
+   - Subunit 1: Introduction to Limits
+   - Subunit 2: Properties of Limits
+   - Subunit 3: Continuity of Functions
+   - Subunit 4: Asymptotes and Limits at Infinity
+   - Subunit 5: Squeeze Theorem and Intermediate Value Theorem
+2. **Unit 2: Differentiation: Definition and Fundamental Properties**
+   - Subunit 1: Defining Derivatives
+   - Subunit 2: Differentiation Rules
+   - Subunit 3: Elementary Functions and Differentiation
+3. **Unit 3: Differentiation: Composite, Implicit, and Inverse Functions**
+   - Subunit 1: Chain Rule
+   - Subunit 2: Implicit Differentiation
+   - Subunit 3: Differentiation of Higher-Order Derivatives
+4. **Unit 4: Contextual Applications of Differentiation**
+   - Subunit 1: Applications in Physics
+   - Subunit 2: Applications in Economics
+   - Subunit 3: Applications in Biology
+5. **Unit 5: Analytical Applications of Differentiation**
+   - Subunit 1: Optimization
+   - Subunit 2: Related Rates
+   - Subunit 3: Applications in Geometry
+6. **Unit 6: Integration and Accumulation of Change**
+   - Subunit 1: Introduction to Integration
+   - Subunit 2: Fundamental Theorem of Calculus
+   - Subunit 3: Applications of Integration
+7. **Unit 7: Differential Equations**
+   - Subunit 1: Introduction to Differential Equations
+   - Subunit 2: Separable Differential Equations
+   - Subunit 3: Non-separable Differential Equations
+8. **Unit 8: Applications of Integration**
+   - Subunit 1: Applications in Physics
+   - Subunit 2: Applications in Economics
+   - Subunit 3: Applications in Biology
+
+Please note that the exact content of each unit may vary slightly depending on the specific curriculum used by different schools or institutions.

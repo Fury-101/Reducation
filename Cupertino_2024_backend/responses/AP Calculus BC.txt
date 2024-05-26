@@ -1,0 +1,50 @@
+Based on the information provided, the AP Calculus BC curriculum can be organized into the following units:
+
+**Unit 1: Limits and Continuity**
+- Subunit 1: Definition and properties of limits in various representations
+- Subunit 2: Definition and properties of continuity of a function at a point and over a domain
+- Subunit 3: Asymptotes and limits at infinity
+- Subunit 4: Reasoning using the Squeeze theorem and the Intermediate Value Theorem
+
+**Unit 2: Differentiation: Definition and Fundamental Properties**
+- Subunit 1: Defining the derivative of a function at a point and as a function
+- Subunit 2: Connecting differentiability and continuity
+- Subunit 3: Determining derivatives for elementary functions
+- Subunit 4: Applying differentiation rules
+
+**Unit 3: Differentiation: Composite, Implicit, and Inverse Functions**
+- Subunit 1: Differentiation of composite functions
+- Subunit 2: Differentiation of implicit functions
+- Subunit 3: Differentiation of inverse functions
+
+**Unit 4: Contextual Applications of Differentiation**
+- Subunit 1: Sketching slope fields and families of solution curves
+- Subunit 2: Using Euler's method to approximate values on a particular solution curve
+- Subunit 3: Solving separable differential equations to find general and particular solutions
+- Subunit 4: Deriving and applying exponential and logistic models
+
+**Unit 5: Integration and Accumulation of Change**
+- Subunit 1: Fundamental Theorem of Calculus
+- Subunit 2: Techniques for integration
+- Subunit 3: Applications of integration
+
+**Unit 6: Differential Equations**
+- Subunit 1: Linear differential equations
+- Subunit 2: Nonlinear differential equations
+- Subunit 3: Applications of differential equations
+
+**Unit 7: Applications of Integration**
+- Subunit 1: Techniques for integration
+- Subunit 2: Applications of integration
+
+**Unit 8: Parametric Equations, Polar Coordinates, and Vector-Valued Functions**
+- Subunit 1: Parametric equations
+- Subunit 2: Polar coordinates
+- Subunit 3: Vector-valued functions
+
+**Unit 9: Infinite Sequences and Series**
+- Subunit 1: Convergence and divergence of series
+- Subunit 2: Tests for convergence and divergence
+- Subunit 3: Applications of infinite series
+
+Each unit may have additional subunits or topics, but these provide a general overview of the AP Calculus BC curriculum.

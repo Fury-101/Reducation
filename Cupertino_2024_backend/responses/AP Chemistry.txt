@@ -1,0 +1,114 @@
+Here is a list of the AP Chemistry curriculum, organized by unit and subunit, in the specified format:
+
+Unit 1: Atomic Structure and Properties
+- Subunit 1: Moles and Molar Mass
+- Subunit 2: Mass Spectroscopy of Elements
+- Subunit 3: Elemental Composition of Pure Substances
+- Subunit 4: Composition of Mixtures
+- Subunit 5: Atomic Structure and Electron Configuration
+- Subunit 6: Photoelectron Spectroscopy
+- Subunit 7: Periodic Trends
+- Subunit 8: Valence Electrons and Ionic Compounds
+
+Unit 2: Molecular and Ionic Compound Structure and Properties
+- Subunit 1: Types of Chemical Bonds
+- Subunit 2: Intramolecular Force and Potential Energy
+- Subunit 3: Structure of Ionic Solids
+- Subunit 4: Structure of Metals and Alloys
+- Subunit 5: Lewis Diagrams
+- Subunit 6: Resonance and Formal Charge
+- Subunit 7: VSEPR and Bond Hybridization
+
+Unit 3: Intermolecular Forces and Properties
+- Subunit 1: Intermolecular Forces
+- Subunit 2: Solids, Liquids, and Gases
+- Subunit 3: Subatomic Forces
+
+Unit 4: Chemical Reactions
+- Subunit 1: Physical and Chemical Processes
+- Subunit 2: Balancing Chemical Equations
+- Subunit 3: Stoichiometry
+- Subunit 4: Acid-Base Equilibria
+- Subunit 5: Reaction Rates
+
+Unit 5: Kinetics
+- Subunit 1: Reaction Rates
+- Subunit 2: Collision Theory
+- Subunit 3: Activation Energy
+- Subunit 4: Rate Laws
+- Subunit 5: Temperature Dependence of Reaction Rates
+
+Unit 6: Thermodynamics
+- Subunit 1: Introduction to Thermodynamics
+- Subunit 2: Enthalpy Changes
+- Subunit 3: Entropy
+- Subunit 4: Gibbs Free Energy
+- Subunit 5: Equilibrium
+
+Unit 7: Equilibrium
+- Subunit 1: Equilibrium Constants
+- Subunit 2: Le Chatelier's Principle
+- Subunit 3: Equilibrium Reactions
+- Subunit 4: Solubility Equilibria
+
+Unit 8: Acids and Bases
+- Subunit 1: Acid-Base Equilibria
+- Subunit 2: Strong and Weak Acids and Bases
+- Subunit 3: pH and pOH Scales
+- Subunit 4: Buffer Solutions
+- Subunit 5: Titrations
+
+Unit 9: Applications of Thermodynamics
+- Subunit 1: Thermodynamic Favorability
+- Subunit 2: Gibbs Free Energy and Thermodynamic Favorability
+- Subunit 3: Thermodynamic and Kinetic Control
+- Subunit 4: Free Energy and Equilibrium
+- Subunit 5: Galvanic (Voltaic) and Electrolyte Cells
+- Subunit 6: Electrolysis and Faraday's Law
+
+Unit 10: Organic Chemistry
+- Subunit 1: Organic Compounds
+- Subunit 2: Organic Reactions
+- Subunit 3: Organic Synthesis
+- Subunit 4: Organic Analysis
+
+Unit 11: Biochemistry
+- Subunit 1: Biochemical Processes
+- Subunit 2: Enzymes
+- Subunit 3: Metabolism
+- Subunit 4: Biomolecules
+
+Unit 12: Nuclear Chemistry
+- Subunit 1: Nuclear Structure
+- Subunit 2: Radioactivity
+- Subunit 3: Nuclear Reactions
+- Subunit 4: Nuclear Decay
+
+Unit 13: Environmental Chemistry
+- Subunit 1: Pollution and the Environment
+- Subunit 2: Air Pollution
+- Subunit 3: Water Pollution
+- Subunit 4: Soil Pollution
+- Subunit 5: Chemical Waste
+
+Unit 14: Chemical Technology
+- Subunit 1: Chemical Manufacturing
+- Subunit 2: Polymer Chemistry
+- Subunit 3: Materials Science
+- Subunit 4: Chemical Engineering
+
+Unit 15: Chemistry in Everyday Life
+- Subunit 1: Chemistry in Health
+- Subunit 2: Chemistry in Food
+- Subunit 3: Chemistry in the Home
+- Subunit 4: Chemistry in the Environment
+- Subunit 5: Chemistry in the Workplace
+
+Unit 16: Review and Exam Preparation
+- Subunit 1: Review of Course Content
+- Subunit 2: Exam Preparation Strategies
+- Subunit 3: Practice Exams
+- Subunit 4: Review of Exam Format
+- Subunit 5: Test-Taking Skills
+
+Please note that the specific content and subunits may vary slightly depending on the course and the teacher's preferences.

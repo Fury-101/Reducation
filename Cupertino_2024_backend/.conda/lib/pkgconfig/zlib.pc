@@ -1,0 +1,13 @@
+prefix=/home/vinay/Code/Reducation/Cupertino_Hacks_2024/Cupertino_2024_backend/.conda
+exec_prefix=/home/vinay/Code/Reducation/Cupertino_Hacks_2024/Cupertino_2024_backend/.conda
+libdir=/home/vinay/Code/Reducation/Cupertino_Hacks_2024/Cupertino_2024_backend/.conda/lib
+sharedlibdir=/home/vinay/Code/Reducation/Cupertino_Hacks_2024/Cupertino_2024_backend/.conda/lib
+includedir=/home/vinay/Code/Reducation/Cupertino_Hacks_2024/Cupertino_2024_backend/.conda/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

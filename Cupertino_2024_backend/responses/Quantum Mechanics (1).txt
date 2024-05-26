@@ -1,0 +1,48 @@
+Here is a list of the Quantum Mechanics curriculum with their subunits:
+
+1. **8.371[J] QIS II: Quantum Information Science**
+	* Quantum circuits
+	* Quantum Fourier transform and search algorithms
+	* Quantum operations formalism
+	* Quantum error correction
+	* Calderbank-Shor-Steane and stabilizer codes
+	* Fault tolerant quantum computation
+	* Quantum data compression
+	* Quantum entanglement
+	* Capacity of quantum channels
+	* Quantum cryptography and the proof of its security
+2. **8.372 QIS III: Quantum Information Science III**
+	* Quantum information theory
+	* Error-correction
+	* Physical implementations
+	* Algorithms
+	* Cryptography
+	* Complexity
+	* Draws connections between QIS and related fields, such as many-body physics, and applications such as sensing
+3. **8.381, 8.382 Selected Topics in Theoretical Physics**
+	* Topics of current interest in theoretical physics, varying from year to year
+4. **8.391 Pre-Thesis Research**
+	* Advanced problems in any area of experimental or theoretical physics, with assigned reading and consultations
+5. **8.392 Pre-Thesis Research**
+	* Advanced problems in any area of experimental or theoretical physics, with assigned reading and consultations
+6. **8.395[J] Teaching College-Level Science and Engineering...**
+7. **8.396[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part I: Advancing Your Professional Strategies and Skills**
+	* Navigating and charting an academic career with confidence
+	* Convincing an audience with clear writing and arguments
+	* Mastering public speaking and communications
+	* Networking at conferences and building a brand
+	* Identifying transferable skills
+	* Preparing for a successful job application package and job interviews
+	* Understanding group dynamics and different leadership styles
+	* Leading a group or team with purpose and confidence
+8. **8.397[J] Leadership and Professional Strategies & Skills Training (LEAPS), Part II: Developing Your Leadership Competencies**
+	* Gaining self awareness and awareness of others, and communicating with different personality types
+	* Learning about team building practices
+	* Strategies for recognizing and resolving conflict and bias
+	* Advocating for diversity and inclusion
+	* Becoming organizationally savvy
+	* Having the courage to be an ethical leader
+	* Coaching, mentoring, and developing others
+	* Championing, accepting, and implementing change
+
+Note: The curriculum may vary from year to year and the availability of some courses may depend on the department's offering. It is recommended to check the course catalog for the most up-to-date information.

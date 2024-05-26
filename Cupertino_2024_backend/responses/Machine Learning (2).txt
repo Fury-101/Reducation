@@ -1,0 +1,45 @@
+Here is the list of units and their subunits for the Machine Learning curriculum:
+
+Unit 1: Introduction to Machine Learning
+- Subunit 1: 10-701 Introduction to Machine Learning
+- Subunit 2: 10-715 Advanced Introduction to Machine Learning
+
+Unit 2: Intermediate Deep Learning
+- Subunit 1: 10-617 Intermediate Deep Learning
+- Subunit 2: 10-703 Deep Reinforcement Learning
+- Subunit 3: 10-707 Advanced Deep Learning
+
+Unit 3: Probabilistic Graphical Models
+- Subunit 1: 10-708 Probabilistic Graphical Models
+
+Unit 4: Machine Learning in Practice
+- Subunit 1: 10-718 Machine Learning in Practice
+
+Unit 5: Convex Optimization
+- Subunit 1: 10-725 Convex Optimization
+
+Unit 6: Probability & Mathematical Statistics
+- Subunit 1: 36-700 Probability & Mathematical Statistics
+- Subunit 2: 36-705 Intermediate Statistics
+
+Unit 7: Elective Courses
+- Subunit 1: 10-605/10-805 Machine Learning with Large Datasets
+- Subunit 2: 10-703 Deep Reinforcement Learning or 10-707 Advanced Deep Learning
+- Subunit 3: 10-716 Advanced Machine Learning: Theory and Methods
+- Subunit 4: 10-??? Special Topics in Machine Learning
+- Subunit 5: 11-711 Advanced Natural Language Processing
+- Subunit 6: 11-741 Machine Learning for Text and Graph-Based Mining
+- Subunit 7: 11-747 Neural Networks for NLP
+- Subunit 8: 11-777 Multimodal Machine Learning
+- Subunit 9: 15-750 Algorithms in the Real World or 15-850 Advanced Algorithms or 15-853 Algorithms in the Real World
+- Subunit 10: 15-780 Graduate Artificial Intelligence
+- Subunit 11: 15-826 Multimedia Databases and Data Mining
+- Subunit 12: 16-720 Computer Vision or 16-820 Advanced Computer Vision
+- Subunit 13: 36-707 Regression Analysis
+- Subunit 14: 36-709 Advanced Statistical Theory I
+- Subunit 15: 36-710 Advanced Statistical Theory II
+
+Unit 8: Practicum
+- Subunit 1: 10-620 Independent Study, under ML Core Faculty
+- Subunit 2: 10-620 Independent Study, under ML Core Faculty
+- Subunit 3: 10-620 Independent Study, under ML Core Faculty

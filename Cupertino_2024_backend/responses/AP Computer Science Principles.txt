@@ -1,0 +1,40 @@
+Here is the list of units and subunits in the AP Computer Science Principles curriculum:
+
+Unit 1: Introduction to Programming
+- Subunit 1: Operators & Logic
+- Subunit 2: Algorithms & Control Structures
+- Subunit 3: Lists
+- Subunit 4: Functions & Procedures
+
+Unit 2: Global Impacts of Computing
+- Subunit 1: Bits & Bytes
+- Subunit 2: Data
+- Subunit 3: Data Analysis
+- Subunit 4: Impact of Computing
+
+Unit 3: Creative Development
+- Subunit 1: Algorithms and Program Development
+- Subunit 2: Abstraction in Program Development
+- Subunit 3: Code Analysis
+- Subunit 4: Computing Innovations
+- Subunit 5: Responsible Computing
+
+Unit 4: Computer Systems and Networks
+- Subunit 1: Computer Systems
+- Subunit 2: Networks
+- Subunit 3: Network Security
+- Subunit 4: Cloud Computing
+
+Unit 5: Impact of Computing
+- Subunit 1: Big Data
+- Subunit 2: Cybersecurity
+- Subunit 3: Artificial Intelligence
+- Subunit 4: Machine Learning
+- Subunit 5: Ethics and Society
+
+Unit 6: Create Task
+- Subunit 1: Planning and Designing
+- Subunit 2: Developing and Implementing
+- Subunit 3: Evaluating and Refining
+
+Each unit and subunit covers a specific aspect of computer science principles, providing a comprehensive understanding of the field.
